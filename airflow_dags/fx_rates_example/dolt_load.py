@@ -22,8 +22,8 @@ def get_data() -> pd.DataFrame:
         raise ValueError('Bad request, return code {}'.format(r.status_code))
 
 
-def get_average(repo: Dolt):
-    return repo.read_table('eur_fx_rates').to_pandas()
+def get_raw_fx_rates(repo: Dolt):
+    return repo.read_table('eur_fx_rates')
 
 
 def get_average_rates(df: pd.DataFrame) -> pd.DataFrame:
@@ -37,7 +37,7 @@ def get_raw_table_loaders():
 
 
 def get_transformed_table_loaders():
-    transformed_table_loaders = [get_table_transfomer(get_average,
+    transformed_table_loaders = [get_table_transfomer(get_raw_fx_rates,
                                                       'eur_fx_rate_averages',
                                                       ['currency'],
                                                       get_average_rates)]
