@@ -8,9 +8,12 @@ from retry import retry
 from typing import List
 from doltpy.etl import get_df_table_writer, get_table_transfomer, get_dolt_loader
 from doltpy.core import Dolt
+
 from functools import partial
 import json
 
+DATE_FORMAT = '%m/%d/%Y'
+GAME_ID_LEN = 10
 logger = logging.getLogger(__name__)
 proxy_cycle = get_proxy_cycle()
 logger.setLevel(logging.DEBUG)
@@ -45,20 +48,10 @@ def _get_play_by_play(game_ids: List[str]):
 def _get_play_by_play_for_game(game_id: str):
     # v2 of the play-by-play endpoint is valid only for games with 10 digit game IDs, which is a super set of the old
     # API, thus we try for a 10 digit game ID, and then fall back onto the original before combining the data.
-    if len(game_id) == 10:
-        # temp for backfill
-        # result = playbyplayv2.PlayByPlayV2(game_id, proxy=next(proxy_cycle))
-        return pd.DataFrame()
-    else:
-        # try:
-        result = playbyplayv2.PlayByPlayV2(game_id, proxy=next(proxy_cycle))
-        # except json.decoder.JSONDecodeError as _:
-        #     logger.warning('N')
-        #     return pd.DataFrame()
-        # temp
-        dfs = result.get_data_frames()
-        if len(dfs) != 2:
-            raise ValueError('Got a bad result from API endpoint for game ID {}'.format(game_id))
+    result = playbyplayv2.PlayByPlayV2(game_id.zfill(GAME_ID_LEN), proxy=next(proxy_cycle))
+    dfs = result.get_data_frames()
+    if len(dfs) != 2:
+        raise ValueError('Got a bad result from API endpoint for game ID {}'.format(game_id))
 
     return dfs[0]
 
@@ -83,9 +76,12 @@ def get_games_df_builder(date_from: datetime, date_to: datetime):
 
 @retry(delay=1, backoff=2, max_delay=60)
 def _get_games_for_team(team_id: str, date_from: datetime, date_to: datetime):
+    def extract_date(date: datetime):
+        return date.strftime(DATE_FORMAT) if date is not None else None
+
     gamefinder = leaguegamefinder.LeagueGameFinder(team_id_nullable=team_id,
-                                                   date_from_nullable=date_from,
-                                                   date_to_nullable=date_to,
+                                                   date_from_nullable=extract_date(date_from),
+                                                   date_to_nullable=extract_date(date_to),
                                                    proxy=next(proxy_cycle))
     dfs = gamefinder.get_data_frames()
     if not dfs:
