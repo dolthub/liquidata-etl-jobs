@@ -10,6 +10,7 @@ from doltpy.etl.loaders import insert_unique_key
 import logging
 import importlib
 import sys
+from pprint import pprint
 
 logger = logging.getLogger(__name__)
 
@@ -215,8 +216,11 @@ This columns should be put into metadata in the state's module.
 def parse_for_state(state_metadata: StateMetadata) -> Tuple[List[dict], List[dict], List[dict]]:
     all_county_data, all_precinct_data = build_state_dataframes(state_metadata)
 
-    logger.info('Extracting election and vote tables from county data')
-    all_county_elections, all_county_votes = extract_tables(all_county_data, state_metadata, False)
+    all_county_votes     = pd.DataFrame()
+    all_county_elections = pd.DataFrame()
+    if not all_county_data.empty:
+        logger.info('Extracting election and vote tables from county data')
+        all_county_elections, all_county_votes = extract_tables(all_county_data, state_metadata, False)
     logger.info('Extracting election and vote tables from precinct data')
     all_precinct_elections, all_precinct_votes = extract_tables(all_precinct_data, state_metadata, True)
 
@@ -407,7 +411,8 @@ def votes_df_to_dicts(votes_df: pd.DataFrame, vote_count_cols: List[str]) -> Lis
             elif key == 'polling':
                 pass
             else:
-                raise ValueError('Encountered unknown column {}'.format(key))
+                pass
+                # raise ValueError('Encountered unknown column {}'.format(key))
 
         result.append(dic)
 
