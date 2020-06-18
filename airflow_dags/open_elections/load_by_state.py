@@ -494,6 +494,8 @@ def main():
         ))
         print_columns(state_metadata)
     else:
+        args.dolt_dir = os.path.normpath(args.dolt_dir)
+
         assert args.state_module and args.dolt_dir, 'When loading to Dolt --state-module and --dolt-dir required'
         logger.info('''Loading the following data to Dolt repo in {} from Open Elections data in {}:
             - elections         : {}
