@@ -88,7 +88,7 @@ quarters = ["032020",
 
 DOWNLOAD_DIR = '/Users/oscarbatori/usps_crosswalk_data'
 BASE_URL = 'https://www.huduser.gov/portal/datasets/usps'
-DOLT_REPO = DOWNLOAD_DIR
+DOLT_REPO = '/Users/oscarbatori/Documents/irs-analysis/dolt-dbs/usps-crosswalk-data'
 
 
 def download_history():
@@ -121,6 +121,7 @@ def download_file(quarter, crosswalk):
 
 
 def get_crosswalk_df(crosswalk):
+    table_name = crosswalk.lower().rstrip('_')
     result = []
     for quarter in quarters:
         month, year = int(quarter[:2].lstrip('0')), int(quarter[2:])
@@ -128,6 +129,12 @@ def get_crosswalk_df(crosswalk):
         if os.path.exists(filepath):
             df = pd.read_excel(filepath).assign(month=month, year=year)
             df = df.rename(columns={col: col.lower() for col in df.columns})
+            df = df.dropna(subset=crosswalk_table_to_pk[table_name])
+            df = df.assign(county=df['county'].apply(lambda v: str(int(v)).zfill(5)))
+            df = df.assign(zip=df['zip'].apply(lambda v: str(int(v)).zfill(5)))
+            if ' ' in df.columns:
+                df = df.drop(columns=[' '])
+
             result.append(df)
 
     return pd.concat(result)
@@ -136,3 +143,11 @@ def get_crosswalk_df(crosswalk):
 def load_to_dolt(df, table):
     repo = Dolt(DOLT_REPO)
     import_df(repo, table, df, ['year', 'month'] + crosswalk_table_to_pk[table], import_mode='update')
+
+
+# from doltpy.core.write import import_df
+# from doltpy.core import Dolt
+# from airflow_dags.uspc_crosswalk_data.retrieve_data import *
+# df = get_crosswalk_df('ZIP_COUNTY_')
+# repo = Dolt('/Users/oscarbatori/Documents/irs-analysis/dolt-dbs/usps-crosswalk-data')
+# import_df(repo, 'zip_county', df, ['year', 'month'] + ['zip', 'county'], import_mode='update')
