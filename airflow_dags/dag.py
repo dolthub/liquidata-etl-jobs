@@ -243,7 +243,8 @@ corona_virus_dag = DAG(
 raw_corona_virus = BashOperator(
     task_id='import-data',
     bash_command='{{conf.get("core", "dags_folder")}}/corona-virus/import-data.pl ',
-    dag=corona_virus_dag
+    dag=corona_virus_dag,
+    execution_timeout=timedelta(hours=4)
 )
 
 corona_virus_details_dag = DAG(
