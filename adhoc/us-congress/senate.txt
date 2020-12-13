@@ -1,0 +1,1366 @@
+==List of senators==
+{| class="wikitable sortable" id="senators" style="text-align:center"
+
+|-
+! State
+! Image
+! Senator
+! colspan=2 | Party
+! Born
+! Occupation(s)
+! Previous<br/>office(s)
+! Assumed office
+! {{nowrap|Term up}}
+! Residence
+
+|-
+| rowspan=2 | [[List of United States senators from Alabama|Alabama]]
+| [[File:Richard Shelby, official portrait, 112th Congress (cropped).jpg|95px]]
+! {{sortname|Richard|Shelby}}
+| style="background-color:{{Republican Party (US)/meta/color}}" |
+| [[Republican Party (United States)|Republican]]
+| {{birth date and age|1934|5|6}}
+| Lawyer
+| {{ushr|AL|7|U.S. House}}<br/>[[Alabama Senate]]
+| data-sort-value="1987/01/03" | January 3, 1987
+| [[2022 United States Senate election in Alabama|2022]]
+| [[Tuscaloosa, Alabama|Tuscaloosa]]<ref name="senate.gov">{{cite web | url=http://www.senate.gov/states/AL/intro.htm | title=States in the Senate – AL Introduction | website=Senate.gov | accessdate=January 3, 2019}}</ref>
+| M
+
+|-
+| [[File:Senator Doug Jones official photo (cropped 2).jpg|95px]]
+! {{sortname|Doug|Jones|dab=politician}}{{efn|Elected to the seat to succeed [[Luther Strange]], who had been appointed to the seat following [[Jeff Sessions]]'s resignation.<ref>{{Cite news | url=https://apnews.com/e2f3c87b2f6b4c05b5e8f8cab38dd48c/Polls-close-across-Alabama-as-bitter-Senate-campaign-ends | title=Jones victorious in stunning Alabama Senate upset | work=AP News | access-date=December 13, 2017 }}</ref>}}
+| style="background-color:{{Democratic Party (US)/meta/color}}" |
+| [[Democratic Party (United States)|Democratic]]
+| {{birth date and age|1954|5|4}}
+| Lawyer
+| Staff counsel, [[U.S. Senate Judiciary Committee]]<br/>[[United States District Court for the Northern District of Alabama|U.S. Attorney for the Northern District of Alabama]]
+| data-sort-value="2018/01" | January 3, 2018
+| [[2020 United States Senate election in Alabama|2020]]
+| [[Birmingham, Alabama|Birmingham]]<ref name="senate.gov"/>
+| M
+
+|-
+| rowspan=2 | [[List of United States senators from Alaska|Alaska]]
+| [[File:Lisa Murkowski official photo (cropped).jpg|95px]]
+! {{sortname|Lisa|Murkowski}}
+| style="background-color:{{Republican Party (US)/meta/color}}" |
+| [[Republican Party (United States)|Republican]]
+| {{birth date and age|1957|5|22}}
+| Lawyer
+| [[Alaska House of Representatives]]
+| data-sort-value="2002/12/20" | December 20, 2002
+| [[2022 United States Senate election in Alaska|2022]]
+| [[Anchorage, Alaska|Anchorage]]<ref name="senate.gov1">{{cite web | url=http://www.senate.gov/states/AK/intro.htm | title=States in the Senate – AK Introduction | website=Senate.gov | accessdate=January 3, 2019}}</ref>
+| F
+
+|-
+| [[File:Senator Dan Sullivan official (cropped).jpg|95px]]
+! {{sortname|Dan|Sullivan|Dan Sullivan (U.S. senator)}}
+| style="background-color:{{Republican Party (US)/meta/color}}" |
+| [[Republican Party (United States)|Republican]]
+| {{birth date and age|1964|11|13}}
+| [[United States Marine Corps|U.S. Marine Corps]] officer<br/>Lawyer
+| [[Alaska Attorney General]]<br/>[[Assistant Secretary of State for Economic and Business Affairs]]
+| data-sort-value="2015/01/03" | January 3, 2015
+| [[2020 United States Senate election in Alaska|2020]]
+| [[Anchorage, Alaska|Anchorage]]<ref name="senate.gov1"/>
+| M
+
+|-
+| rowspan=2 | [[List of United States senators from Arizona|Arizona]]
+| [[File:Kyrsten Sinema by Gage Skidmore (cropped).jpg|95px]]
+! {{sortname|Kyrsten|Sinema}}
+| style="background-color:{{Democratic Party (US)/meta/color}}" |
+| [[Democratic Party (United States)|Democratic]]
+| {{birth date and age|1976|7|12}}
+| Social Worker<br/>Political Activist
+| {{ushr|AZ|9|U.S. House}}<br/>[[Arizona Senate]]<br/>[[Arizona House of Representatives]]
+| data-sort-value="2019/01/03" | January 3, 2019
+| [[2024 United States Senate election in Arizona|2024]]
+| [[Phoenix, Arizona|Phoenix]]<ref>{{cite web | url=http://www.statepress.com/article/2012/01/state-sen-kyrsten-sinema-pursues-house-seat | title=State Sen. Kyrsten Sinema pursues House seat | website=The Arizona State Press | accessdate=February 5, 2019}}</ref>
+| F
+
+|-
+| [[File:Sen. Martha McSally official Senate headshot 116th congress (cropped).jpg|95px]]
+! {{sortname|Martha|McSally}}{{efn|Appointed to the seat after [[Jon Kyl]]'s resignation following the death of [[John McCain]].<ref>{{cite web | url=https://www.nytimes.com/2018/12/18/us/politics/martha-mcsally-senate-mccain-kyl.html | title=Martha McSally Appointed to Arizona Senate Seat Once Held by John McCain | first=Jonathan | last=Martin | date=December 18, 2018 | accessdate=February 5, 2019 | website=The New York Times}}</ref>}}
+| style="background-color:{{Republican Party (US)/meta/color}}" |
+| [[Republican Party (United States)|Republican]]
+| {{birth date and age|1966|3|22}}
+| [[United States Air Force|U.S. Air Force]] officer<br/>Professor, [[George C. Marshall European Center for Security Studies]]<ref>McSally, Martha, "Should US uniform adapt to Muslim Culture?", ''[[The Washington Post]]'', reprinted in ''[[The Japan Times]]'', March 2, 2011, p. 12.</ref>
+| {{ushr|AZ|2|U.S. House}}
+| data-sort-value="2019/01/03" | January 3, 2019
+| [[2020 United States Senate special election in Arizona|2020 {{Small|(Special)}}]]<br/>[[2022 United States Senate election in Arizona|2022 {{Small|(General)}}]]
+| [[Tucson, Arizona|Tucson]]<ref>{{Cite web | url=https://mcsally.house.gov/about/full-biography | title=Biography Martha McSally| access-date=January 3, 2019 | archive-url=https://web.archive.org/web/20181224215746/https://mcsally.house.gov/about/full-biography | archive-date=December 24, 2018 |url-status = dead| df=mdy-all }}</ref>
+| F
+
+|-
+| rowspan=2 | [[List of United States senators from Arkansas|Arkansas]]
+| [[File:John Boozman, official portrait, 112th Congress (cropped).jpg|95px]]
+! {{sortname|John|Boozman}}
+| style="background-color:{{Republican Party (US)/meta/color}}" |
+| [[Republican Party (United States)|Republican]]
+| {{birth date and age|1950|12|10}}
+| [[Optometrist]]
+| {{ushr|AR|3|U.S. House}}<br/>[[Rogers School District|Rogers Public Schools Board]]
+| data-sort-value="2011/01/03" | January 3, 2011
+| [[2022 United States Senate election in Arkansas|2022]]
+| [[Rogers, Arkansas|Rogers]]<ref name="senate.gov2">{{cite web | url=http://www.senate.gov/states/AR/intro.htm | title=States in the Senate – AR Introduction | website=Senate.gov | accessdate=January 3, 2019}}</ref>
+| M
+
+|-
+| [[File:Tom Cotton official Senate photo (cropped).jpg|95px]]
+! {{sortname|Tom|Cotton}}
+| style="background-color:{{Republican Party (US)/meta/color}}" |
+| [[Republican Party (United States)|Republican]]
+| {{birth date and age|1977|5|13}}
+| Lawyer<br/>[[United States Army]] officer
+| {{ushr|AR|4|U.S. House}}
+| data-sort-value="2015/01/03" | January 3, 2015
+| [[2020 United States Senate election in Arkansas|2020]]
+| [[Dardanelle, Arkansas|Dardanelle]]<ref name="senate.gov2"/>
+| M
+
+|-
+| rowspan=2 | [[List of United States senators from California|California]]
+| [[File:Dianne Feinstein, official Senate photo 2 (cropped).jpg|95px]]
+! {{sortname|Dianne|Feinstein}}
+| style="background-color:{{Democratic Party (US)/meta/color}}" |
+| [[Democratic Party (United States)|Democratic]]
+| {{birth date and age|1933|6|22}}
+| Non-profit organization [[fellow]]
+| [[Mayor of San Francisco]]<br/>[[San Francisco Board of Supervisors]]<br/>Member, California Women's Parole Board.
+| data-sort-value="1992/11/10" | November 10, 1992
+| [[2024 United States Senate election in California|2024]]
+| [[San Francisco, California|San Francisco]]<ref name="senate.gov3">{{cite web | url=http://www.senate.gov/states/CA/intro.htm | title=States in the Senate – CA Introduction | website=Senate.gov | accessdate=January 3, 2019}}</ref>
+| F
+
+|-
+| [[File:Kamala Harris official photo (cropped).jpg|95px]]
+! {{sortname|Kamala|Harris}}
+| style="background-color:{{Democratic Party (US)/meta/color}}" |
+| [[Democratic Party (United States)|Democratic]]
+| {{birth date and age|1964|10|20}}
+| Lawyer
+| [[Attorney General of California]]<br/>[[San Francisco District Attorney's Office|San Francisco District Attorney]]
+| data-sort-value="2017/01/03" | January 3, 2017
+| [[2022 United States Senate election in California|2022]]
+| [[Los Angeles, California|Los Angeles]]<ref name="senate.gov3"/>
+| F
+
+|-
+| rowspan=2 | [[List of United States senators from Colorado|Colorado]]
+| [[File:Michael Bennet Official Photo (cropped).jpg|95px]]
+! {{sortname|Michael|Bennet}}
+| style="background-color:{{Democratic Party (US)/meta/color}}" |
+| [[Democratic Party (United States)|Democratic]]
+| {{birth date and age|1964|11|28}}
+| Lawyer<br/>Investment company executive<br/>Public School Administrator
+| [[Denver Public Schools]] Superintendent<br/>Chief of staff to the [[List of mayors of Denver|mayor of Denver]]
+| data-sort-value="2009/01/22" | January 22, 2009
+| [[2022 United States Senate election in Colorado|2022]]
+| [[Denver, Colorado|Denver]]<ref name="senate.gov4">{{cite web | url=http://www.senate.gov/states/CO/intro.htm | title=States in the Senate – CO Introduction | website=Senate.gov | accessdate=January 3, 2019}}</ref>
+| M
+
+|-
+| [[File:Cory Gardner official Senate portrait (cropped).jpeg|95px]]
+! {{sortname|Cory|Gardner}}
+| style="background-color:{{Republican Party (US)/meta/color}}" |
+| [[Republican Party (United States)|Republican]]
+| {{birth date and age|1974|8|22}}
+| Lawyer<br/>Businessman
+| {{ushr|CO|4|U.S. House}}<br/>[[Colorado House of Representatives]]
+| data-sort-value="2015/01/03" | January 3, 2015
+| [[2020 United States Senate election in Colorado|2020]]
+| [[Denver, Colorado|Denver]]<ref name="senate.gov4"/>
+| M
+
+|-
+| rowspan=2 | [[List of United States senators from Connecticut|Connecticut]]
+| [[File:Richard Blumenthal Official Portrait (cropped).jpg|95px]]
+! {{sortname|Richard|Blumenthal}}
+| style="background-color:{{Democratic Party (US)/meta/color}}" |
+| [[Democratic Party (United States)|Democratic]]
+| {{birth date and age|1946|2|13}}
+| Marine Corps Reserve [[Sergeant]]<br/>Senate Staffer<br/>Lawyer
+| [[Connecticut Attorney General]]<br/>[[Connecticut Senate]]<br/>[[Connecticut House of Representatives]]<br/>[[United States Attorney]]
+| data-sort-value="2011/01/05" | January 3, 2011
+| [[2022 United States Senate election in Connecticut|2022]]
+| [[Greenwich, Connecticut|Greenwich]]<ref name="senate.gov5">{{cite web | url=http://www.senate.gov/states/CT/intro.htm | title=States in the Senate – CT Introduction | website=Senate.gov | accessdate=January 3, 2019}}</ref>
+| M
+
+|-
+| [[File:Chris Murphy, official portrait, 113th Congress (cropped).jpg|95px]]
+! {{sortname|Chris|Murphy}}
+| style="background-color:{{Democratic Party (US)/meta/color}}" |
+| [[Democratic Party (United States)|Democratic]]
+| {{birth date and age|1973|8|3}}
+| Lawyer<br/>Political Campaign Manager
+| {{ushr|CT|5|U.S. House}}<br/>[[Connecticut Senate]]<br/>[[Connecticut House of Representatives]]
+| data-sort-value="2013/01/03" | January 3, 2013
+| [[2024 United States Senate election in Connecticut|2024]]
+| [[Cheshire, Connecticut|Cheshire]]<ref name="senate.gov5"/>
+| M
+
+|-
+| rowspan=2 | [[List of United States senators from Delaware|Delaware]]
+| [[File:Tom Carper, official portrait, 112th Congress (cropped).jpg|95px]]
+! {{sortname|Tom|Carper}}
+| style="background-color:{{Democratic Party (US)/meta/color}}" |
+| [[Democratic Party (United States)|Democratic]]
+| {{birth date and age|1947|1|23}}
+| U.S. Navy officer<br/>Staff, Delaware Office of Economic Development
+| [[Governor of Delaware]]<br/>{{ushr|DE|AL|U.S. House}}<br/>Delaware Treasurer
+| data-sort-value="2001/01/03" | January 3, 2001
+| [[2024 United States Senate election in Delaware|2024]]
+| [[Wilmington, Delaware|Wilmington]]<ref name="senate.gov6">{{cite web | url=http://www.senate.gov/states/DE/intro.htm | title=States in the Senate – DE Introduction | website=Senate.gov | accessdate=January 3, 2019}}</ref>
+| M
+
+|-
+| [[File:Chris Coons, official portrait, 112th Congress (cropped).jpg|95px]]
+! {{sortname|Chris|Coons}}
+| style="background-color:{{Democratic Party (US)/meta/color}}" |
+| [[Democratic Party (United States)|Democratic]]
+| {{birth date and age|1963|9|9}}
+| Nonprofit Organization executive<br/>Lawyer
+| [[New Castle County, Delaware]] County Executive<br/>Member, New Castle County Council
+| data-sort-value="2010/11/15" | November 15, 2010
+| [[2020 United States Senate election in Delaware|2020]]
+| [[Wilmington, Delaware|Wilmington]]<ref name="senate.gov6"/>
+| M
+
+|-
+| rowspan=2 | [[List of United States senators from Florida|Florida]]
+| [[File:Senator Rubio official portrait (cropped).jpg|95px]]
+! {{sortname|Marco|Rubio}}
+| style="background-color:{{Republican Party (US)/meta/color}}" |
+| [[Republican Party (United States)|Republican]]
+| {{birth date and age|1971|5|28}}
+| Lawyer
+| [[Speaker of the Florida House of Representatives|Florida House Speaker]]<br/>[[West Miami, Florida]] City Commission
+| data-sort-value="2011/01/03" | January 3, 2011
+| [[2022 United States Senate election in Florida|2022]]
+| [[Miami, Florida|Miami]]
+| M
+
+|-
+| [[File:Official Portrait of Senator Rick Scott (cropped).jpg|95px]]
+! {{sortname|Rick|Scott}}
+| style="background-color:{{Republican Party (US)/meta/color}}" |
+| [[Republican Party (United States)|Republican]]
+| {{birth date and age|1952|12|1}}
+| [[Petty officer third class]], U.S. Navy<br/>Lawyer<br/>[[Hospital Corporation of America|Columbia/HCA]] CEO<br/>Venture Capitalist
+| [[Governor of Florida]]
+| data-sort-value="2019/01/08" | January 8, 2019
+| [[2024 United States Senate election in Florida|2024]]
+| [[Naples, Florida|Naples]]<ref>{{cite web | url=https://www.flgov.com/meet-governor-scott/ | title=Meet Governor Scott | website=Flgov.com | accessdate=February 5, 2019}}</ref>
+| M
+
+|-
+| rowspan=2 | [[List of United States senators from Georgia|Georgia]]
+| [[File:David Perdue, Official Portrait, 114th Congress (cropped).jpg|95px]]
+! {{sortname|David|Perdue}}
+| style="background-color:{{Republican Party (US)/meta/color}}" |
+| [[Republican Party (United States)|Republican]]
+| {{birth date and age|1949|12|10}}
+| Corporate executive
+| None
+| data-sort-value="2015/01/03" | January 3, 2015
+| [[2020 United States Senate election in Georgia|2020]]
+| [[Sea Island, Georgia|Sea Island]]<ref name="senate.gov8">{{cite web | url=http://www.senate.gov/states/GA/intro.htm | title=States in the Senate – GA Introduction | website=Senate.gov | accessdate=January 3, 2019}}</ref>
+| M
+
+|-
+| [[File:Kelly Loeffler (cropped).jpg|95px]]
+! {{sortname|Kelly|Loeffler}}
+| style="background-color:{{Republican Party (US)/meta/color}}" |
+| [[Republican Party (United States)|Republican]]
+| {{birth date and age|1970|11|27}}
+| Corporate executive
+| None
+| data-sort-value="2020/01/06" | January 6, 2020
+| [[2020 United States Senate special election in Georgia|2020 {{Small|(Special)}}]]<br/>[[2022 United States Senate election in Georgia|2022 {{Small|(General)}}]]
+| [[Atlanta, Georgia|Atlanta]]
+| F
+
+|-
+| rowspan=2 | [[List of United States senators from Hawaii|Hawaii]]
+| [[File:Brian Schatz, official portrait, 113th Congress 2 (cropped).jpg|95px]]
+! {{sortname|Brian|Schatz}}
+| style="background-color:{{Democratic Party (US)/meta/color}}" |
+| [[Democratic Party (United States)|Democratic]]
+| {{birth date and age|1972|10|20}}
+| Nonprofit organization executive
+| [[Lieutenant Governor of Hawaii]]<br/>[[Hawaii House of Representatives]]
+| data-sort-value="2012/12/26" | December 26, 2012
+| [[2022 United States Senate election in Hawaii|2022]]
+| [[Honolulu, Hawaii|Honolulu]]<ref name="senate.gov9">{{cite web | url=http://www.senate.gov/states/HI/intro.htm | title=States in the Senate – HI Introduction | website=Senate.gov | accessdate=January 3, 2019}}</ref>
+| M
+
+|-
+| [[File:Mazie Hirono, official portrait, 113th Congress (cropped).jpg|95px]]
+! {{sortname|Mazie|Hirono}}
+| style="background-color:{{Democratic Party (US)/meta/color}}" |
+| [[Democratic Party (United States)|Democratic]]
+| {{birth date and age|1947|11|3}}
+| Lawyer
+| {{ushr|HI|2|U.S. House}}<br/>[[Hawaii House of Representatives]]<br/>[[Lieutenant Governor of Hawaii]]
+| data-sort-value="2013/01/03" | January 3, 2013
+| [[2024 United States Senate election in Hawaii|2024]]
+| [[Honolulu, Hawaii|Honolulu]]<ref name="senate.gov9"/>
+| F
+
+|-
+| rowspan=2 | [[List of United States senators from Idaho|Idaho]]
+| [[File:Mike Crapo Official Photo 110th Congress (cropped).jpg|95px]]
+! {{sortname|Mike|Crapo}}
+| style="background-color:{{Republican Party (US)/meta/color}}" |
+| [[Republican Party (United States)|Republican]]
+| {{birth date and age|1951|5|20}}
+| Lawyer
+| {{ushr|ID|2|U.S. House}}<br/>[[Idaho Senate]]
+| data-sort-value="1999/01/03" | January 3, 1999
+| [[2022 United States Senate election in Idaho|2022]]
+| [[Idaho Falls, Idaho|Idaho Falls]]<ref name="senate.gov10">{{cite web | url=http://www.senate.gov/states/ID/intro.htm | title=States in the Senate – ID Introduction | website=Senate.gov | accessdate=January 3, 2019}}</ref>
+| M
+
+|-
+| [[File:Jim Risch official portrait (cropped).jpg|95px]]
+! {{sortname|Jim|Risch}}
+| style="background-color:{{Republican Party (US)/meta/color}}" |
+| [[Republican Party (United States)|Republican]]
+| {{birth date and age|1943|5|3}}
+| Professor<br/>Rancher<br/>Nonprofit organization executive
+| [[Governor of Idaho]]<br/>[[Lieutenant Governor of Idaho]]<br/>[[List of Presidents pro tempore of the Idaho Senate|Idaho Senate President pro tempore]]
+| data-sort-value="2009/01/03" | January 3, 2009
+| [[2020 United States Senate election in Idaho|2020]]
+| [[Boise, Idaho|Boise]]<ref name="senate.gov10"/>
+| M
+
+|-
+| rowspan=2 | [[List of United States senators from Illinois|Illinois]]
+| [[File:Richard Durbin official photo (cropped).jpg|95px]]
+! {{sortname|Dick|Durbin}}
+| style="background-color:{{Democratic Party (US)/meta/color}}" |
+| [[Democratic Party (United States)|Democratic]]
+| {{birth date and age|1944|11|21}}
+| Lawyer<br/>Professor
+| {{ushr|IL|20|U.S. House}}
+| data-sort-value="1997/01/03" | January 3, 1997
+| [[2020 United States Senate election in Illinois|2020]]
+| [[Springfield, Illinois|Springfield]]<ref name="senate.gov11">{{cite web | url=http://www.senate.gov/states/IL/intro.htm | title=States in the Senate – IL Introduction | website=Senate.gov | accessdate=January 3, 2019}}</ref>
+| M
+
+|-
+| [[File:Tammy Duckworth 115th official portrait (cropped).jpg|95px]]
+! {{sortname|Tammy|Duckworth}}
+| style="background-color:{{Democratic Party (US)/meta/color}}" |
+| [[Democratic Party (United States)|Democratic]]
+| {{birth date and age|1968|3|12}}
+| [[Army National Guard]] Officer<br/>Staff Supervisor, [[Rotary International]]<br/>Coordinator, Center for Nursing Research, [[Northern Illinois University]].<ref>{{cite news |last=Davey |first=Monica |date=November 28, 2008 |title=The New Team: Tammy Duckworth |url=https://www.nytimes.com/2008/11/29/us/politics/29web-duckworth.html |work=[[The New York Times]] |location=New York, NY}}</ref>
+| {{ushr|IL|8|U.S. House}}<br/>[[United States Department of Veterans Affairs|U.S. Assistant Secretary of Veterans Affairs]]<br/>[[Illinois Department of Veterans' Affairs|Illinois Director of Veterans Affairs]]
+| data-sort-value="2017/01/03" | January 3, 2017
+| [[2022 United States Senate election in Illinois|2022]]
+| [[Hoffman Estates, Illinois|Hoffman Estates]]<ref name="senate.gov11"/>
+| F
+
+|-
+| rowspan=2 | [[List of United States senators from Indiana|Indiana]]
+| [[File:Senator Todd Young official portrait (cropped).jpg|95px]]
+! {{sortname|Todd|Young}}
+| style="background-color:{{Republican Party (US)/meta/color}}" |
+| [[Republican Party (United States)|Republican]]
+| {{birth date and age|1972|8|24}}
+| Marine Corps Officer<br/>Professor<br/>Consultant
+| {{ushr|IN|9|U.S. House}}
+| data-sort-value="2017/01/03" | January 3, 2017
+| [[2022 United States Senate election in Indiana|2022]]
+| [[Bloomington, Indiana|Bloomington]]
+| M
+
+|-
+| [[File:Mike Braun, Official Portrait, 116th Congress (cropped).jpg|95px]]
+! {{sortname|Mike|Braun}}
+| style="background-color:{{Republican Party (US)/meta/color}}" |
+| [[Republican Party (United States)|Republican]]
+| {{birth date and age|1954|3|24}}
+| Businessman
+| [[Indiana House of Representatives]]<br/>Member, [[Jasper, Indiana]] School Board
+| data-sort-value="2019/01/03" | January 3, 2019
+| [[2024 United States Senate election in Indiana|2024]]
+| [[Jasper, Indiana|Jasper]]<ref>{{cite web | url=https://www.mikebraunforindiana.com:443/about/ | title=About | website=Mike Braun for Indiana | accessdate=February 5, 2019}}</ref>
+| M
+
+|-
+| rowspan=2 | [[List of United States senators from Iowa|Iowa]]
+| [[File:Chuck Grassley official photo 2017 (cropped).jpg|95px]]
+! {{sortname|Chuck|Grassley}}
+| style="background-color:{{Republican Party (US)/meta/color}}" |
+| [[Republican Party (United States)|Republican]]
+| {{birth date and age|1933|9|17}}
+| Farmer<br/>College professor
+| {{ushr|IA|3|U.S. House}}<br/>[[Iowa House of Representatives]]
+| data-sort-value="1981/01/03" | January 3, 1981
+| [[2022 United States Senate election in Iowa|2022]]
+| [[New Hartford, Iowa|New Hartford]]<ref name="senate.gov13">{{cite web | url=http://www.senate.gov/states/IA/intro.htm | title=States in the Senate – IA Introduction | website=Senate.gov | accessdate=January 3, 2019}}</ref>
+| M
+
+|-
+| [[File:Joni Ernst official portrait (cropped).jpg|95px]]
+! {{sortname|Joni|Ernst}}
+| style="background-color:{{Republican Party (US)/meta/color}}" |
+| [[Republican Party (United States)|Republican]]
+| {{birth date and age|1970|7|1}}
+| Farmer<br/>Army National Guard officer
+| [[Iowa Senate]]
+| data-sort-value="2015/01/03" | January 3, 2015
+| [[2020 United States Senate election in Iowa|2020]]
+| [[Red Oak, Iowa|Red Oak]]<ref name="senate.gov13"/>
+| F
+
+|-
+| rowspan=2 | [[List of United States senators from Kansas|Kansas]]
+| [[File:Pat Roberts official Senate photo (cropped).jpg|95px]]
+! {{sortname|Pat|Roberts}}
+| style="background-color:{{Republican Party (US)/meta/color}}" |
+| [[Republican Party (United States)|Republican]]
+| {{birth date and age|1936|4|20}}
+| [[United States Marine Corps]] officer<br/>Journalist<br/>U.S. Senate staff member<br/>U.S. House staff member
+| {{ushr|KS|1|U.S. House}}
+| data-sort-value="1997/01/03" | January 3, 1997
+| [[2020 United States Senate election in Kansas|2020]]
+| [[Dodge City, Kansas|Dodge City]]<ref name="senate.gov14">{{cite web | url=http://www.senate.gov/states/KS/intro.htm | title=States in the Senate – KS Introduction | website=Senate.gov | accessdate=January 3, 2019}}</ref>
+| M
+
+|-
+| [[File:Jerry Moran, official portrait, 112th Congress (cropped).jpg|95px]]
+! {{sortname|Jerry|Moran}}
+| style="background-color:{{Republican Party (US)/meta/color}}" |
+| [[Republican Party (United States)|Republican]]
+| {{birth date and age|1954|5|29}}
+| Banker<br/>Lawyer
+| {{ushr|KS|1|U.S. House}}<br/>[[Kansas Senate]]
+| data-sort-value="2011/01/03" | January 3, 2011
+| [[2022 United States Senate election in Kansas|2022]]
+| [[Hays, Kansas|Hays]]<ref name="senate.gov14"/>
+| M
+
+|-
+| rowspan=2 | [[List of United States senators from Kentucky|Kentucky]]
+| [[File:Sen Mitch McConnell official (cropped).jpg|95px]]
+! {{sortname|Mitch|McConnell}}
+| style="background-color:{{Republican Party (US)/meta/color}}" |
+| [[Republican Party (United States)|Republican]]
+| {{birth date and age|1942|2|20}}
+| Lawyer<br/>U.S. Senate staff member
+| [[U.S. Department of Justice Office of Legislative Affairs]]<br/>[[Jefferson County Judge/Executive]]
+| data-sort-value="1985/01/03" | January 3, 1985
+| [[2020 United States Senate election in Kentucky|2020]]
+| [[Louisville, Kentucky|Louisville]]<ref name="senate.gov15">{{cite web | url=http://www.senate.gov/states/KY/intro.htm | title=States in the Senate – KY Introduction | website=Senate.gov | accessdate=January 3, 2019}}</ref>
+| M
+
+|-
+| [[File:Rand Paul, official portrait, 112th Congress alternate (cropped).jpg|95px]]
+! {{sortname|Rand|Paul}}
+| style="background-color:{{Republican Party (US)/meta/color}}" |
+| [[Republican Party (United States)|Republican]]
+| {{birth date and age|1963|1|7}}
+| [[Ophthalmologist]]
+| None
+| data-sort-value="2011/01/03" | January 3, 2011
+| [[2022 United States Senate election in Kentucky|2022]]
+| [[Bowling Green, Kentucky|Bowling Green]]<ref name="senate.gov15"/>
+| M
+
+|-
+| rowspan=2 | [[List of United States senators from Louisiana|Louisiana]]
+| [[File:Bill Cassidy official Senate photo (cropped).jpg|95px]]
+! {{sortname|Bill|Cassidy}}
+| style="background-color:{{Republican Party (US)/meta/color}}" |
+| [[Republican Party (United States)|Republican]]
+| {{birth date and age|1957|9|28}}
+| Physician
+| {{ushr|LA|6|U.S. House}}<br/>[[Louisiana Senate]]
+| data-sort-value="2015/01/03" | January 3, 2015
+| [[2020 United States Senate election in Louisiana|2020]]
+| [[Baton Rouge, Louisiana|Baton Rouge]]<ref name="senate.gov16">{{cite web | url=http://www.senate.gov/states/LA/intro.htm | title=States in the Senate – LA Introduction | website=Senate.gov | accessdate=January 3, 2019}}</ref>
+| M
+
+|-
+| [[File:John Neely Kennedy, official portrait, 115th Congress.jpg|95px]]
+! {{sortname|John|Kennedy|John Kennedy (Louisiana politician)}}
+| style="background-color:{{Republican Party (US)/meta/color}}" |
+| [[Republican Party (United States)|Republican]]
+| {{birth date and age|1951|11|21}}
+| Magazine editor<br/>Lawyer<br/>Professor<br/>Staff of Louisiana Governor [[Buddy Roemer]]
+| Louisiana Treasurer<br/>Secretary, Louisiana Department of Revenue
+| data-sort-value="2017/01/03" | January 3, 2017
+| [[2022 United States Senate election in Louisiana|2022]]
+| [[Madisonville, Louisiana|Madisonville]]<ref name="senate.gov16"/>
+| M
+
+|-
+| rowspan=2 | [[List of United States senators from Maine|Maine]]
+| [[File:Susan Collins official Senate photo (cropped).jpg|95px]]
+! {{sortname|Susan|Collins}}
+| style="background-color:{{Republican Party (US)/meta/color}}" |
+| [[Republican Party (United States)|Republican]]
+| {{birth date and age|1952|12|7}}
+| House staffer<br/>Senate staffer<br/>Regional director, [[Small Business Administration|SBA]]<br/>Nonprofit organization executive
+| Deputy [[State Treasurer of Massachusetts|Treasurer, MA]] Professional and Financial Regulation Commissioner, ME
+| data-sort-value="1997/01/03" | January 3, 1997
+| [[2020 United States Senate election in Maine|2020]]
+| [[Bangor, Maine|Bangor]]<ref>{{cite web | url=http://www.senate.gov/states/ME/intro.htm | title=States in the Senate – ME Introduction | website=Senate.gov | accessdate=January 3, 2019}}</ref>
+| F
+
+|-
+| [[File:Angus King, official portrait, 113th Congress (cropped).jpg|95px]]
+! {{sortname|Angus|King}}
+| style="background-color:{{Independent (US)/meta/color}}" |
+| Independent{{efn|name=KingSanders}}
+| {{birth date and age|1944|3|31}}
+| Lawyer<br/>[[Congressional staff|Senate staffer]]<br/>Business founder<br/>Corporate executive<br/>Public television news program host
+| [[Governor of Maine]]
+| data-sort-value="2013/01/03" | January 3, 2013
+| [[2024 United States Senate election in Maine|2024]]
+| [[Brunswick, Maine|Brunswick]]
+| M
+
+|-
+| rowspan=2 | [[List of United States senators from Maryland|Maryland]]
+| [[File:Ben Cardin official Senate portrait (cropped).jpg|95px]]
+! {{sortname|Ben|Cardin}}
+| style="background-color:{{Democratic Party (US)/meta/color}}" |
+| [[Democratic Party (United States)|Democratic]]
+| {{birth date and age|1943|10|5}}
+| Lawyer
+| {{ushr|MD|3|U.S. House}}<br/>[[List of Speakers of the Maryland House of Delegates|Speaker of the Maryland House of Delegates]]
+| data-sort-value="2007/01/03" | January 3, 2007
+| [[2024 United States Senate election in Maryland|2024]]
+| [[Baltimore, Maryland|Baltimore]]<ref name="senate.gov17">{{cite web | url=http://www.senate.gov/states/MD/intro.htm | title=States in the Senate – MD Introduction | website=Senate.gov | accessdate=January 3, 2019}}</ref>
+| M
+
+|-
+| [[File:Chris Van Hollen official portrait 115th Congress (cropped).jpg|95px]]
+! {{sortname|Chris|Van Hollen}}
+| style="background-color:{{Democratic Party (US)/meta/color}}" |
+| [[Democratic Party (United States)|Democratic]]
+| {{birth date and age|1959|1|10}}
+| U.S. Senate staff member<br/>Maryland Governor's legislative advisor<br/>Lawyer
+| {{ushr|MD|8|U.S. House}}<br/>[[Maryland General Assembly]]
+| data-sort-value="2017/01/03" | January 3, 2017
+| [[2022 United States Senate election in Maryland|2022]]
+| [[Kensington, Maryland|Kensington]]<ref name="senate.gov17"/>
+| M
+
+|-
+| rowspan=2 | [[List of United States senators from Massachusetts|Massachusetts]]
+| [[File:Elizabeth Warren, official portrait, 114th Congress (cropped).jpg|95px]]
+! {{sortname|Elizabeth|Warren}}
+| style="background-color:{{Democratic Party (US)/meta/color}}" |
+| [[Democratic Party (United States)|Democratic]]
+| {{birth date and age|1949|6|22}}
+| Lawyer<br/>Professor<br/>Research associate<br/>Nonprofit organization executive
+| [[Oversight of the Troubled Asset Relief Program|COP]] Chair<br/>[[Consumer Financial Protection Bureau|CFPB]] Special Advisor
+| data-sort-value="2013/01/03" | January 3, 2013
+| [[2024 United States Senate election in Massachusetts|2024]]
+| [[Cambridge, Massachusetts|Cambridge]]<ref name="senate.gov18">{{cite web | url=http://www.senate.gov/states/MA/intro.htm | title=States in the Senate – MA Introduction | website=Senate.gov | accessdate=January 3, 2019}}</ref>
+| F
+
+|-
+| [[File:Edward Markey, official portrait, 114th Congress (cropped).jpg|95px]]
+! {{sortname|Ed|Markey}}
+| style="background-color:{{Democratic Party (US)/meta/color}}" |
+| [[Democratic Party (United States)|Democratic]]
+| {{birth date and age|1946|7|11}}
+| Member, [[United States Army Reserve]]<br/>Lawyer
+| {{ushr|MA|7|U.S. House}}<br/>[[Massachusetts House of Representatives]]
+| data-sort-value="2013/07/16" | July 16, 2013
+| [[2020 United States Senate election in Massachusetts|2020]]
+| [[Malden, Massachusetts|Malden]]<ref name="senate.gov18"/>
+| M
+
+|-
+| rowspan=2 | [[List of United States senators from Michigan|Michigan]]
+| [[File:Debbie Stabenow, official photo, 116th Congress (cropped).jpg|95px]]
+! {{sortname|Debbie|Stabenow}}
+| style="background-color:{{Democratic Party (US)/meta/color}}" |
+| [[Democratic Party (United States)|Democratic]]
+| {{birth date and age|1950|4|29}}
+| Social worker<br/>Leadership training consultant
+| {{ushr|MI|8|U.S. House}}<br/>[[Michigan House of Representatives]]<br/>[[Michigan Senate]]
+| data-sort-value="2001/01/03" | January 3, 2001
+| [[2024 United States Senate election in Michigan|2024]]
+| [[Lansing, Michigan|Lansing]]<ref name="senate.gov19">{{cite web | url=http://www.senate.gov/states/MI/intro.htm | title=States in the Senate – MI Introduction | website=Senate.gov | accessdate=January 3, 2019}}</ref>
+| F
+
+|-
+| [[File:Gary Peters official photo 115th congress (cropped).jpg|95px]]
+! {{sortname|Gary|Peters}}
+| style="background-color:{{Democratic Party (US)/meta/color}}" |
+| [[Democratic Party (United States)|Democratic]]
+| {{birth date and age|1958|12|1}}
+| United States Navy Reserve officer<br/>[[Financial advisor]]<br/>Attorney<br/>College professor and lecturer
+| {{ushr|MI|14|U.S. House}}<br/>[[Michigan Senate]]
+| data-sort-value="2015/01/03" | January 3, 2015
+| [[2020 United States Senate election in Michigan|2020]]
+| [[Bloomfield Hills, Michigan|Bloomfield Hills]]<ref name="senate.gov19"/>
+| M
+
+|-
+| rowspan=2 | [[List of United States senators from Minnesota|Minnesota]]
+| [[File:Amy Klobuchar, official portrait, 113th Congress (cropped).jpg|95px]]
+! {{sortname|Amy|Klobuchar}}
+| style="background-color:{{Democratic Party (US)/meta/color}}" |
+| [[Democratic Party (United States)|Democratic]]
+| {{birth date and age|1960|5|25}}
+| Lawyer
+| [[Hennepin County, Minnesota]] [[County Attorney|Attorney]]
+| data-sort-value="2007/01/03" | January 3, 2007
+| [[2024 United States Senate election in Minnesota|2024]]
+| [[Minneapolis, Minnesota|Minneapolis]]<ref name="senate.gov20">{{cite web | url=http://www.senate.gov/states/MN/intro.htm | title=States in the Senate – MN Introduction | website=Senate.gov | accessdate=January 3, 2019}}</ref>
+| F
+
+|-
+| [[File:Tina Smith, official portrait, 116th congress (cropped).jpg|95px]]
+! {{sortname|Tina|Smith}}
+| style="background-color:{{Democratic Party (US)/meta/color}}" |
+| [[Democratic Party (United States)|Democratic]]
+| {{birth date and age|1958|3|4}}
+| Public relations consultant<br/>Nonprofit organization executive<br/>Chief of staff to the [[Governor of Minnesota]]
+| [[Lieutenant Governor of Minnesota]]
+| data-sort-value="2018/01/02" | January 3, 2018{{efn|Appointed to the seat after [[Al Franken]]'s resignation.<ref>{{Cite news | url=http://abc7chicago.com/news/franken-to-make-announcement-thursday-as-chorus-grows-for-his-resignation/2747124/ | title=Franken to make announcement Thursday as chorus grows for his resignation | date=December 6, 2017 | work=ABC7 Chicago | access-date=December 9, 2017 }}</ref>}}
+| [[2020 United States Senate election in Minnesota|2020]]
+| [[Minneapolis, Minnesota|Minneapolis]]<ref name="senate.gov20"/>
+| F
+
+|-
+| rowspan=2 | [[List of United States senators from Mississippi|Mississippi]]
+| [[File:Roger F. Wicker crop.jpg|95px]]
+! {{sortname|Roger|Wicker}}
+| style="background-color:{{Republican Party (US)/meta/color}}" |
+| [[Republican Party (United States)|Republican]]
+| {{birth date and age|1951|7|5}}
+| [[United States Air Force|U.S. Air Force]] officer/Judge Advocate<br/>U.S. House staffer<br/>Lawyer
+| {{ushr|MS|1|U.S. House}}<br/>[[Mississippi State Senate|Mississippi Senate]]
+| data-sort-value="2007/12/31" | December 31, 2007
+| [[2024 United States Senate election in Mississippi|2024]]
+| [[Tupelo, Mississippi|Tupelo]]<ref>{{cite web | url=http://www.senate.gov/states/MS/intro.htm | title=States in the Senate – MS Introduction | website=Senate.gov | accessdate=January 3, 2019}}</ref>
+| M
+
+|-
+| [[File:Cindy Hyde-Smith official photo (cropped).jpg|95px]]
+! {{sortname|Cindy|Hyde-Smith}}
+| style="background-color:{{Republican Party (US)/meta/color}}" |
+| [[Republican Party (United States)|Republican]]
+| {{birth date and age|1959|5|10}}
+| Farmer
+| [[Mississippi Department of Agriculture and Commerce|Mississippi Commissioner of Agriculture and Commerce]]<br/>[[Mississippi State Senate|Mississippi Senate]]
+| data-sort-value="2018/04/09" | April 9, 2018{{efn|Appointed to the seat after [[Thad Cochran]]'s resignation.}}
+| [[2020 United States Senate election in Mississippi|2020]]
+| [[Brookhaven, Mississippi|Brookhaven]]
+| F
+
+|-
+| rowspan=2 | [[List of United States senators from Missouri|Missouri]]
+| [[File:Roy Blunt, Official Portrait, 112th Congress (cropped).jpg|95px]]
+! {{sortname|Roy|Blunt}}
+| style="background-color:{{Republican Party (US)/meta/color}}" |
+| [[Republican Party (United States)|Republican]]
+| {{birth date and age|1950|1|10}}
+| University president
+| {{ushr|MO|7|U.S. House}}<br/>[[List of Missouri Secretaries of State|Missouri Secretary of State]]<br/>[[Greene County, Missouri]] Clerk
+| data-sort-value="2011/01/03" | January 3, 2011
+| [[2022 United States Senate election in Missouri|2022]]
+| [[Springfield, Missouri|Springfield]]
+| M
+
+|-
+| [[File:Josh Hawley (cropped).jpg|95px]]
+! {{sortname|Josh|Hawley}}
+| style="background-color:{{Republican Party (US)/meta/color}}" |
+| [[Republican Party (United States)|Republican]]
+| {{birth date and age|1979|12|31}}
+| Lawyer<br/>Professor
+| [[Attorney General of Missouri]]
+| data-sort-value="2019/01/03" | January 3, 2019
+| [[2024 United States Senate election in Missouri|2024]]
+| [[Ashland, Missouri|Ashland]]<ref>{{cite web | title=Faculty Bio-Erin Morrow Hawley | url=http://law.missouri.edu/about/people/hawleye/ | publisher=University of Missouri Law School | accessdate=September 10, 2018 | archive-url=https://web.archive.org/web/20190302224925/http://law.missouri.edu/about/people/hawleye/ | archive-date=March 2, 2019 | url-status=dead }}</ref><ref>{{Cite web | url=https://twitter.com/HawleyMO?lang=en | title=Josh Hawley (@HawleyMO) {{!}} Twitter | publisher=Twitter  | access-date=August 30, 2018}}</ref>
+| M
+
+|-
+| rowspan=2 | [[List of United States senators from Montana|Montana]]
+| [[File:JonTester (cropped).jpg|95px]]
+! {{sortname|Jon|Tester}}
+| style="background-color:{{Democratic Party (US)/meta/color}}" |
+| [[Democratic Party (United States)|Democratic]]
+| {{birth date and age|1956|8|21}}
+| Music teacher<br/>Farmer
+| [[Montana Senate]] President<br/>[[Big Sandy, Montana]] School Board
+| data-sort-value="2007/01/03" | January 3, 2007
+| [[2024 United States Senate election in Montana|2024]]
+| [[Big Sandy, Montana|Big Sandy]]
+| M
+
+|-
+| [[File:Steve Daines official Senate portrait (cropped).jpg|95px]]
+! {{sortname|Steve|Daines}}
+| style="background-color:{{Republican Party (US)/meta/color}}" |
+| [[Republican Party (United States)|Republican]]
+| {{birth date and age|1962|8|20}}
+| Businessman
+| {{ushr|MT|AL|U.S. House}}
+| data-sort-value="2015/01/03" | January 3, 2015
+| [[2020 United States Senate election in Montana|2020]]
+| [[Bozeman, Montana|Bozeman]]
+| M
+
+|-
+| rowspan=2 | [[List of United States senators from Nebraska|Nebraska]]
+| [[File:Deb Fischer, official portrait, 115th Congress (cropped).jpg|95px]]
+! {{sortname|Deb|Fischer}}
+| style="background-color:{{Republican Party (US)/meta/color}}" |
+| [[Republican Party (United States)|Republican]]
+| {{birth date and age|1951|3|1}}
+| Rancher
+| [[Nebraska Legislature]]
+| data-sort-value="2013/01/03" | January 3, 2013
+| [[2024 United States Senate election in Nebraska|2024]]
+| [[Valentine, Nebraska|Valentine]]
+| F
+
+|-
+| [[File:Ben Sasse Official photo (cropped).jpg|95px]]
+! {{sortname|Ben|Sasse}}
+| style="background-color:{{Republican Party (US)/meta/color}}" |
+| [[Republican Party (United States)|Republican]]
+| {{birth date and age|1972|2|22}}
+| Management consultant<br/>Nonprofit organization executive<br/>House staffer<br/>Professor<br/>University president
+| [[Assistant Secretary for Planning and Evaluation]] ([[United States Department of Health and Human Services|HHS]])
+| data-sort-value="2015/01/03" | January 3, 2015
+| [[2020 United States Senate election in Nebraska|2020]]
+| [[Fremont, Nebraska|Fremont]]
+| M
+
+|-
+| rowspan=2 | [[List of United States senators from Nevada|Nevada]]
+| [[File:Catherine Cortez Masto official portrait (cropped).jpg|95px]]
+! {{sortname|Catherine|Cortez Masto}}
+| style="background-color:{{Democratic Party (US)/meta/color}}" |
+| [[Democratic Party (United States)|Democratic]]
+| {{birth date and age|1964|3|29}}
+| Lawyer
+| [[Nevada Attorney General]]
+| data-sort-value="2017/01/03" | January 3, 2017
+| [[2022 United States Senate election in Nevada|2022]]
+| [[Las Vegas, Nevada|Las Vegas]]
+| F
+
+|-
+| [[File:Jacky Rosen, official portrait, 116th congress (cropped-1).jpg|95px]]
+! {{sortname|Jacky|Rosen}}
+| style="background-color:{{Democratic Party (US)/meta/color}}" |
+| [[Democratic Party (United States)|Democratic]]
+| {{birth date and age|1957|8|2}}
+| Computer programmer<br/>Software developer, designer, consultant<ref name="reviewjournal.com">{{cite web | url=https://www.reviewjournal.com/local/local-nevada/congressional-candidate-jacky-rosen-a-newcomer-unknown-to-most-southern-nevadans/ | title=Congressional candidate Jacky Rosen a newcomer, unknown to most Southern Nevadans | date=July 5, 2016 | website=Reviewjournal.com | accessdate=February 5, 2019}}</ref><ref>{{Cite web | url=https://rosen.house.gov/about | title=About Congresswoman Jacky Rosen| access-date=January 3, 2019 | archive-url=https://web.archive.org/web/20181221233959/https://rosen.house.gov/about | archive-date=December 21, 2018 |url-status = dead| df=mdy-all }}</ref>
+| {{ushr|NV|3|U.S. House}}
+| data-sort-value="2019/01/03" | January 3, 2019
+| [[2024 United States Senate election in Nevada|2024]]
+| [[Henderson, Nevada|Henderson]]<ref name="reviewjournal.com"/>
+| F
+
+|-
+| rowspan=2 | [[List of United States senators from New Hampshire|New Hampshire]]
+| [[File:Jeanne Shaheen, official Senate photo portrait, 2009 (cropped).jpg|95px]]
+! {{sortname|Jeanne|Shaheen}}
+| style="background-color:{{Democratic Party (US)/meta/color}}" |
+| [[Democratic Party (United States)|Democratic]]
+| {{birth date and age|1947|1|28}}
+| Teacher<br/>Entrepreneur
+| [[Governor of New Hampshire]]<br/>[[New Hampshire Senate]]
+| data-sort-value="2009/01/03" | January 3, 2009
+| [[2020 United States Senate election in New Hampshire|2020]]
+| [[Madbury, New Hampshire|Madbury]]
+| F
+
+|-
+| [[File:Maggie Hassan, official portrait, 115th Congress (cropped).jpg|95px]]
+! {{sortname|Maggie|Hassan}}
+| style="background-color:{{Democratic Party (US)/meta/color}}" |
+| [[Democratic Party (United States)|Democratic]]
+| {{birth date and age|1958|2|27}}
+| Lawyer
+| [[Governor of New Hampshire]]<br/>[[New Hampshire Senate]]
+| data-sort-value="2017/01/03" | January 3, 2017
+| [[2022 United States Senate election in New Hampshire|2022]]
+| [[Newfields, New Hampshire|Newfields]]
+| F
+
+|-
+| rowspan=2 | [[List of United States senators from New Jersey|New Jersey]]
+| [[File:Robert Menendez official Senate portrait (cropped).jpg|95px]]
+! {{sortname|Bob|Menendez}}
+| style="background-color:{{Democratic Party (US)/meta/color}}" |
+| [[Democratic Party (United States)|Democratic]]
+| {{birth date and age|1954|1|1}}
+| Lawyer
+| {{ushr|NJ|13|U.S. House}}<br/>[[New Jersey General Assembly]]<br/>[[New Jersey Senate]]
+| data-sort-value="2006/01/18" | January 18, 2006
+| [[2024 United States Senate election in New Jersey|2024]]
+| [[Hoboken, New Jersey|Hoboken]]
+| M
+
+|-
+| [[File:Cory Booker, official portrait, 114th Congress.jpg|95px]]
+! {{sortname|Cory|Booker}}
+| style="background-color:{{Democratic Party (US)/meta/color}}" |
+| [[Democratic Party (United States)|Democratic]]
+| {{birth date and age|1969|4|27}}
+| Lawyer
+| [[Mayors of Newark, New Jersey|Mayor of Newark, New Jersey]]<br/>Newark Municipal Council
+| data-sort-value="2013/10/31" | October 31, 2013
+| [[2020 United States Senate election in New Jersey|2020]]
+| [[Newark, New Jersey|Newark]]
+| M
+
+|-
+| rowspan=2 | [[List of United States senators from New Mexico|New Mexico]]
+| [[File:Tom Udall official photo (cropped).jpg|95px]]
+! {{sortname|Tom|Udall}}
+| style="background-color:{{Democratic Party (US)/meta/color}}" |
+| [[Democratic Party (United States)|Democratic]]
+| {{birth date and age|1948|5|18}}
+| Lawyer
+| {{ushr|NM|3|U.S. House}}<br/>[[Attorney General of New Mexico]]<br/>Assistant U.S. Attorney
+| data-sort-value="2009/01/03" | January 3, 2009
+| [[2020 United States Senate election in New Mexico|2020]]
+| [[Santa Fe, New Mexico|Santa Fe]]
+| M
+
+|-
+| [[File:Heinrich Official Headshot 2019 (cropped).jpg|95px]]
+! {{sortname|Martin|Heinrich}}
+| style="background-color:{{Democratic Party (US)/meta/color}}" |
+| [[Democratic Party (United States)|Democratic]]
+| {{birth date and age|1971|10|17}}
+| [[Board of directors#Non-corporate boards|Nonprofit]] organization executive<br/>Consultant
+| {{ushr|NM|1|U.S. House}}<br/>[[Albuquerque City Council]]
+| data-sort-value="2013/01/03" | January 3, 2013
+| [[2024 United States Senate election in New Mexico|2024]]
+| [[Albuquerque, New Mexico|Albuquerque]]
+| M
+
+|-
+| rowspan=2 | [[List of United States senators from New York|New York]]
+| [[File:Chuck Schumer official photo (cropped).jpg|95px]]
+! {{sortname|Chuck|Schumer}}
+| style="background-color:{{Democratic Party (US)/meta/color}}" |
+| [[Democratic Party (United States)|Democratic]]
+| {{birth date and age|1950|11|23}}
+| Lawyer
+| {{ushr|NY|9|U.S. House}}<br/>[[New York State Assembly]]
+| data-sort-value="1999/01/03" | January 3, 1999
+| [[2022 United States Senate election in New York|2022]]
+| [[Brooklyn, New York|Brooklyn]]
+| M
+
+|-
+| [[File:Kirsten Gillibrand, official photo, 116th Congress (cropped).jpg|95px]]
+! {{sortname|Kirsten|Gillibrand}}
+| style="background-color:{{Democratic Party (US)/meta/color}}" |
+| [[Democratic Party (United States)|Democratic]]
+| {{birth date and age|1966|12|9}}
+| Lawyer
+| {{ushr|NY|20|U.S. House}}<br/>[[United States Department of Housing and Urban Development|U.S. HUD]] [[Special prosecutor|special counsel]]
+| data-sort-value="2009/01/26" | January 26, 2009
+| [[2024 United States Senate election in New York|2024]]
+| [[Hudson, New York|Hudson]]
+| F
+
+|-
+| rowspan=2 | [[List of United States senators from North Carolina|North Carolina]]
+| [[File:Richard Burr official portrait (cropped).jpg|95px]]
+! {{sortname|Richard|Burr}}
+| style="background-color:{{Republican Party (US)/meta/color}}" |
+| [[Republican Party (United States)|Republican]]
+| {{birth date and age|1955|11|30}}
+| Sales manager<br/>[[Board of directors#Non-corporate boards|Nonprofit organization executive]]
+| {{ushr|NC|5|U.S. House}}
+| data-sort-value="2005/01/03" | January 3, 2005
+| [[2022 United States Senate election in North Carolina|2022]]
+| [[Winston-Salem, North Carolina|Winston-Salem]]
+| M
+
+|-
+| [[File:Thom Tillis Official Photo (cropped).jpg|95px]]
+! {{sortname|Thom|Tillis}}
+| style="background-color:{{Republican Party (US)/meta/color}}" |
+| [[Republican Party (United States)|Republican]]
+| {{birth date and age|1960|8|30}}
+| Business consultant
+| [[Speaker of the North Carolina House of Representatives]]
+| data-sort-value="2015/01/03" | January 3, 2015
+| [[2020 United States Senate election in North Carolina|2020]]
+| [[Huntersville, North Carolina|Huntersville]]
+| M
+
+|-
+| rowspan=2 | [[List of United States senators from North Dakota|North Dakota]]
+| [[File:Hoeven Official Portrait 2014 (cropped).JPG|95px]]
+! {{sortname|John|Hoeven}}
+| style="background-color:{{Republican Party (US)/meta/color}}" |
+| [[Republican Party (United States)|Republican]]
+| {{birth date and age|1957|3|13}}
+| Banker
+| [[Governor of North Dakota]]
+| data-sort-value="2011/01/03" | January 3, 2011
+| [[2022 United States Senate election in North Dakota|2022]]
+| [[Bismarck, North Dakota|Bismarck]]
+| M
+
+|-
+| [[File:Kevin Cramer, official portrait, 116th congress (cropped).jpg|95px]]
+! {{sortname|Kevin|Cramer}}
+| style="background-color:{{Republican Party (US)/meta/color}}" |
+| [[Republican Party (United States)|Republican]]
+| {{birth date and age|1961|1|21}}
+| State Tourism Director<br/>State Economic Development and Finance Director<br/>Former [[North Dakota Republican Party]] Chairman
+| {{ushr|ND|AL|U.S. House}}<br/>[[North Dakota Public Service Commission]]er
+| data-sort-value="2019/01/03" | January 3, 2019
+| [[2024 United States Senate election in North Dakota|2024]]
+| [[Bismarck, North Dakota|Bismarck]]<ref>{{cite web | url=http://media.cq.com/members/3109 | title=RollCall.com – Member Profile – Sen. Kevin Cramer, R-N.D. | website=Media.cq.com | accessdate=February 5, 2019}}</ref>
+| M
+
+|-
+| rowspan=2 | [[List of United States senators from Ohio|Ohio]]
+| [[File:Sherrod Brown official photo 2009 2 (cropped).jpg|95px]]
+! {{sortname|Sherrod|Brown}}
+| style="background-color:{{Democratic Party (US)/meta/color}}" |
+| [[Democratic Party (United States)|Democratic]]
+| {{birth date and age|1952|11|9}}
+| Teacher
+| {{ushr|OH|13|U.S. House}}<br/>[[Ohio Secretary of State]]<br/>[[Ohio House of Representatives]]
+| data-sort-value="2007/01/03" | January 3, 2007
+| [[2024 United States Senate election in Ohio|2024]]
+| [[Lorain, Ohio|Lorain]]
+| M
+
+|-
+| [[File:Rob Portman official portrait (cropped).jpg|95px]]
+! {{sortname|Rob|Portman}}
+| style="background-color:{{Republican Party (US)/meta/color}}" |
+| [[Republican Party (United States)|Republican]]
+| {{birth date and age|1955|12|19}}
+| Lawyer
+| {{ushr|OH|2|U.S. House}}<br/>[[U.S. Trade Representative]]<br/>[[Director of the Office of Management and Budget]]
+| data-sort-value="2011/01/03" | January 3, 2011
+| [[2022 United States Senate election in Ohio|2022]]
+| [[Terrace Park, Ohio|Terrace Park]]
+| M
+
+|-
+| rowspan=2 | [[List of United States senators from Oklahoma|Oklahoma]]
+| [[File:Jim Inhofe official portrait (cropped).jpg|95px]]
+! {{sortname|Jim|Inhofe}}
+| style="background-color:{{Republican Party (US)/meta/color}}" |
+| [[Republican Party (United States)|Republican]]
+| {{birth date and age|1934|11|17}}
+| [[Specialist (rank)#Specialist (1955–present)|Specialist Fourth Class]], U.S. Army<br/>Businessman<br/>Real estate developer<br/>Corporate executive
+| {{ushr|OK|1|U.S. House}}<br/>[[List of mayors of Tulsa, Oklahoma|Mayor of Tulsa, Oklahoma]]<br/>[[Oklahoma Senate]]<br/>[[Oklahoma House of Representatives]]
+| data-sort-value="1994/11/17" | November 17, 1994
+| [[2020 United States Senate election in Oklahoma|2020]]
+| [[Tulsa, Oklahoma|Tulsa]]
+| M
+
+|-
+| [[File:James Lankford official portrait 115th congress (cropped).jpg|95px]]
+! {{sortname|James|Lankford}}
+| style="background-color:{{Republican Party (US)/meta/color}}" |
+| [[Republican Party (United States)|Republican]]
+| {{birth date and age|1968|3|4}}
+| Teacher<br/>Nonprofit program director
+| {{ushr|OK|5|U.S. House}}
+| data-sort-value="2015/01/03" | January 3, 2015
+| [[2022 United States Senate election in Oklahoma|2022]]
+| [[Edmond, Oklahoma|Edmond]]
+| M
+
+|-
+| rowspan=2 | [[List of United States senators from Oregon|Oregon]]
+| [[File:Ron Wyden official photo (cropped).jpg|95px]]
+! {{sortname|Ron|Wyden}}
+| style="background-color:{{Democratic Party (US)/meta/color}}" |
+| [[Democratic Party (United States)|Democratic]]
+| {{birth date and age|1949|5|3}}
+| Teacher<br/>[[Board of directors#Non-corporate boards|Nonprofit organization executive]]
+| {{ushr|OR|3|U.S. House}}
+| data-sort-value="1996/02/06" | February 6, 1996
+| [[2022 United States Senate election in Oregon|2022]]
+| [[Portland, Oregon|Portland]]
+| M
+
+|-
+| [[File:Jeff Merkley, 115th official photo (cropped).jpg|95px]]
+! {{sortname|Jeff|Merkley}}
+| style="background-color:{{Democratic Party (US)/meta/color}}" |
+| [[Democratic Party (United States)|Democratic]]
+| {{birth date and age|1956|10|24}}
+| [[Board of directors#Non-corporate boards|Nonprofit organization executive]]<br/>CBO analyst, [[United States Department of Defense|Defense Department]]
+| [[List of speakers of the Oregon House of Representatives|Oregon House Speaker]]
+| data-sort-value="2009/01/03" | January 3, 2009
+| [[2020 United States Senate election in Oregon|2020]]
+| [[Portland, Oregon|Portland]]
+| M
+
+|-
+| rowspan=2 | [[List of United States senators from Pennsylvania|Pennsylvania]]
+| [[File:Bob Casey Jr. official photo (cropped).jpg|95px]]
+! {{sortname|Bob|Casey Jr.}}
+| style="background-color:{{Democratic Party (US)/meta/color}}" |
+| [[Democratic Party (United States)|Democratic]]
+| {{birth date and age|1960|4|13}}
+| Teacher<br/>Lawyer
+| [[Pennsylvania Treasurer]]<br/>[[Pennsylvania Auditor General|Pennsylvania Auditor]]
+| data-sort-value="2007/01/03" | January 3, 2007
+| [[2024 United States Senate election in Pennsylvania|2024]]
+| [[Scranton, Pennsylvania|Scranton]]
+| M
+
+|-
+| [[File:Pat Toomey official photo (cropped).jpg|95px]]
+! {{sortname|Pat|Toomey}}
+| style="background-color:{{Republican Party (US)/meta/color}}" |
+| [[Republican Party (United States)|Republican]]
+| {{birth date and age|1961|11|17}}
+| [[Currency trader]]<br/>Restaurant owner
+| {{ushr|PA|15|U.S. House}}
+| data-sort-value="2011/01/03" | January 3, 2011
+| [[2022 United States Senate election in Pennsylvania|2022]]
+| [[Zionsville, Pennsylvania|Zionsville]]
+| M
+
+|-
+| rowspan=2 | [[List of United States senators from Rhode Island|Rhode Island]]
+| [[File:Senator Jack Reed official photo (cropped).jpg|95px]]
+! {{sortname|Jack|Reed|Jack Reed (Rhode Island politician)}}
+| style="background-color:{{Democratic Party (US)/meta/color}}" |
+| [[Democratic Party (United States)|Democratic]]
+| {{birth date and age|1949|11|12}}
+| Lawyer<br/>Army Reserve officer<br/>Army officer
+| {{ushr|RI|2|U.S. House}}<br/>[[Rhode Island Senate]]
+| data-sort-value="1997/01/03" | January 3, 1997
+| [[2020 United States Senate election in Rhode Island|2020]]
+| [[Cranston, Rhode Island|Cranston]]
+| M
+
+|-
+| [[File:Sheldon Whitehouse 2010 (cropped).jpg|95px]]
+! {{sortname|Sheldon|Whitehouse}}
+| style="background-color:{{Democratic Party (US)/meta/color}}" |
+| [[Democratic Party (United States)|Democratic]]
+| {{birth date and age|1955|10|20}}
+| Lawyer
+| [[Attorney General of Rhode Island]]<br/>[[United States Attorney]]
+| data-sort-value="2007/01/03" | January 3, 2007
+| [[2024 United States Senate election in Rhode Island|2024]]
+| [[Providence, Rhode Island|Providence]]
+| M
+
+|-
+| rowspan=2 | [[List of United States senators from South Carolina|South Carolina]]
+| [[File:Lindsey Graham, official photo, 113th Congress (cropped).jpg|95px]]
+! {{sortname|Lindsey|Graham}}
+| style="background-color:{{Republican Party (US)/meta/color}}" |
+| [[Republican Party (United States)|Republican]]
+| {{birth date and age|1955|7|9}}
+| Lawyer<br/>Air Force Reserve officer
+| {{ushr|SC|3|U.S. House}}<br/>[[South Carolina House of Representatives]]
+| data-sort-value="2003/01/03" | January 3, 2003
+| [[2020 United States Senate election in South Carolina|2020]]
+| [[Seneca, South Carolina|Seneca]]
+| M
+
+|-
+| [[File:Tim Scott, official portrait, 113th Congress (cropped 2).jpg|95px]]
+! {{sortname|Tim|Scott}}
+| style="background-color:{{Republican Party (US)/meta/color}}" |
+| [[Republican Party (United States)|Republican]]
+| {{birth date and age|1965|9|19}}
+| Insurance agent<br/>Financial adviser
+| {{ushr|SC|1|U.S. House}}<br/>[[South Carolina House of Representatives]]<br/>[[Charleston County, South Carolina]] [[County Council|Council]]
+| data-sort-value="2013/01/02" | January 2, 2013
+| [[2022 United States Senate election in South Carolina|2022]]
+| [[North Charleston, South Carolina|North Charleston]]
+| M
+
+|-
+| rowspan=2 | [[List of United States senators from South Dakota|South Dakota]]
+| [[File:John Thune, official portrait, 111th Congress (cropped).jpg|95px]]
+! {{sortname|John|Thune}}
+| style="background-color:{{Republican Party (US)/meta/color}}" |
+| [[Republican Party (United States)|Republican]]
+| {{birth date and age|1961|1|7}}
+| [[Board of directors#Non-corporate boards|Nonprofit organization executive]]<br/>State Railroad Director
+| {{ushr|SD|AL|U.S. House}}<br/>[[South Dakota Republican Party]] Executive Director
+| data-sort-value="2005/01/03" | January 3, 2005
+| [[2022 United States Senate election in South Dakota|2022]]
+| [[Sioux Falls, South Dakota|Sioux Falls]]
+| M
+
+|-
+| [[File:Mike Rounds official Senate portrait (cropped).jpg|95px]]
+! {{sortname|Mike|Rounds}}
+| style="background-color:{{Republican Party (US)/meta/color}}" |
+| [[Republican Party (United States)|Republican]]
+| {{birth date and age|1954|10|24}}
+| Businessman
+| [[Governor of South Dakota]]<br/>[[South Dakota Senate]]
+| data-sort-value="2015/01/03" | January 3, 2015
+| [[2020 United States Senate election in South Dakota|2020]]
+| [[Fort Pierre, South Dakota|Fort Pierre]]
+| M
+
+|-
+| rowspan=2 | [[List of United States senators from Tennessee|Tennessee]]
+| [[File:Lamar Alexander official photo (cropped).jpg|95px]]
+! {{sortname|Lamar|Alexander}}
+| style="background-color:{{Republican Party (US)/meta/color}}" |
+| [[Republican Party (United States)|Republican]]
+| {{birth date and age|1940|7|3}}
+| Senate staffer<br/>[[White House]] staffer<br/>Lawyer<br/>Businessman
+| [[Governor of Tennessee]]<br/>[[United States Secretary of Education|U.S. Secretary of Education]]
+| data-sort-value="2003/01/03" | January 3, 2003
+| [[2020 United States Senate election in Tennessee|2020]]
+| [[Maryville, Tennessee|Maryville]]
+| M
+
+|-
+| [[File:Marsha Blackburn, official photo, 116th Congress (cropped).jpg|95px]]
+! {{sortname|Marsha|Blackburn}}
+| style="background-color:{{Republican Party (US)/meta/color}}" |
+| [[Republican Party (United States)|Republican]]
+| {{birth date and age|1952|6|6}}
+| Consultant<br/>Executive Director of the Tennessee Film, Entertainment, and Music Commission<br/>Former [[Williamson County, Tennessee]] Republican Party Chairwoman
+| {{ushr|TN|7|U.S. House}}<br/>[[Tennessee Senate]]
+| data-sort-value="2019/01/03" | January 3, 2019
+| [[2024 United States Senate election in Tennessee|2024]]
+| [[Brentwood, Tennessee|Brentwood]]<ref>{{Cite web | url=https://blackburn.house.gov/biography/ | title=Biography Martha Blackburn | access-date=January 3, 2019 | archive-url=https://web.archive.org/web/20181226013428/https://blackburn.house.gov/biography/ | archive-date=December 26, 2018 |url-status = dead| df=mdy-all }}</ref>
+| F
+
+|-
+| rowspan=2 | [[List of United States senators from Texas|Texas]]
+| [[File:John Cornyn (cropped).jpg|95px]]
+! {{sortname|John|Cornyn}}
+| style="background-color:{{Republican Party (US)/meta/color}}" |
+| [[Republican Party (United States)|Republican]]
+| {{birth date and age|1952|2|2}}
+| Lawyer
+| San Antonio District Judge<br/>[[Texas Attorney General]]<br/>[[Supreme Court of Texas|Texas Supreme Court]]<br/>{{small|(Associate Justice)}}
+| data-sort-value="2002/12/01" | December 1, 2002
+| [[2020 United States Senate election in Texas|2020]]
+| [[San Antonio, Texas|San Antonio]]
+| M
+
+|-
+| [[File:Ted Cruz official 116th portrait (cropped).jpg|95px]]
+! {{sortname|Ted|Cruz}}
+| style="background-color:{{Republican Party (US)/meta/color}}" |
+| [[Republican Party (United States)|Republican]]
+| {{birth date and age|1970|12|22}}
+|<br/>Lawyer
+|<br/>[[United States Department of Justice|U.S. Assoc. Deputy AG]]<br/>Texas Solicitor General
+| data-sort-value="2013/01/03" | January 3, 2013
+| [[2024 United States Senate election in Texas|2024]]
+| [[Houston, Texas|Houston]]
+| M
+
+|-
+| rowspan=2 | [[List of United States senators from Utah|Utah]]
+| [[File:Mike Lee, official portrait (cropped).jpg|95px]]
+! {{sortname|Mike|Lee|Mike Lee (American politician)}}
+| style="background-color:{{Republican Party (US)/meta/color}}" |
+| [[Republican Party (United States)|Republican]]
+| {{birth date and age|1971|6|4}}
+| Lawyer<br/>Governor's general counsel
+| [[United States Attorney|Assistant United States Attorney]]
+| data-sort-value="2011/01/03" | January 3, 2011
+| [[2022 United States Senate election in Utah|2022]]
+| [[Alpine, Utah|Alpine]]
+| M
+
+|-
+| [[File:Mitt Romney official US Senate portrait (cropped).jpg|95px]]
+! {{sortname|Mitt|Romney}}
+| style="background-color:{{Republican Party (US)/meta/color}}" |
+| [[Republican Party (United States)|Republican]]
+| {{birth date and age|1947|3|12}}
+| Businessman
+| [[Governor of Massachusetts]]
+| data-sort-value="2019/01/03" | January 3, 2019
+| [[2024 United States Senate election in Utah|2024]]
+| [[Holladay, Utah|Holladay]]<ref>{{cite web | url=https://www.romneyforutah.com/about-mitt/ | title=About Mitt | website=Romney For Utah | accessdate=February 5, 2019}}</ref>
+| M
+
+|-
+| rowspan=2 | [[List of United States senators from Vermont|Vermont]]
+| [[File:Patrick Leahy official photo (cropped).jpg|95px]]
+! {{sortname|Patrick|Leahy}}
+| style="background-color:{{Democratic Party (US)/meta/color}}" |
+| [[Democratic Party (United States)|Democratic]]
+| {{birth date and age|1940|3|31}}
+| Lawyer
+| [[Chittenden County, Vermont]] [[State's Attorney]]
+| data-sort-value="1975/01/03" | January 3, 1975
+| [[2022 United States Senate election in Vermont|2022]]
+| [[Middlesex, Vermont|Middlesex]]
+| M
+
+|-
+| [[File:Bernie Sanders (cropped).jpg|95px]]
+! {{sortname|Bernie|Sanders}}
+| style="background-color:{{Independent (US)/meta/color}}" |
+| Independent{{efn|name=KingSanders}}
+| {{birth date and age|1941|9|8}}
+| Filmmaker<br/>Writer<br/>Political Activist
+| {{ushr|VT|AL|U.S. House}}<br/>[[List of mayors of Burlington, Vermont|Mayor of Burlington, Vermont]]
+| data-sort-value="2007/01/03" | January 3, 2007
+| [[2024 United States Senate election in Vermont|2024]]
+| [[Burlington, Vermont|Burlington]]
+| M
+
+|-
+| rowspan=2 | [[List of United States senators from Virginia|Virginia]]
+| [[File:Mark Warner 113th Congress photo (cropped).jpg|95px]]
+! {{sortname|Mark|Warner}}
+| style="background-color:{{Democratic Party (US)/meta/color}}" |
+| [[Democratic Party (United States)|Democratic]]
+| {{birth date and age|1954|12|15}}
+| Businessman<br/>Venture capitalist
+| [[Governor of Virginia]]<br/>[[Virginia Democratic Party]] Chair
+| data-sort-value="2009/01/03" | January 3, 2009
+| [[2020 United States Senate election in Virginia|2020]]
+| [[Alexandria, Virginia|Alexandria]]
+| M
+
+|-
+| [[File:Tim Kaine 116th official portrait (cropped).jpg|95px]]
+! {{sortname|Tim|Kaine}}
+| style="background-color:{{Democratic Party (US)/meta/color}}" |
+| [[Democratic Party (United States)|Democratic]]
+| {{birth date and age|1958|2|26}}
+| Missionary<br/>Lawyer<br/>Teacher
+| [[Governor of Virginia]]<br/>[[Lieutenant Governor of Virginia|Lt. Governor of Virginia]]<br/>Chair of the [[Democratic National Committee]]<br/>[[Mayor of Richmond, Virginia]]
+| data-sort-value="2013/01/03" | January 3, 2013
+| [[2024 United States Senate election in Virginia|2024]]
+| [[Richmond, Virginia|Richmond]]
+| M
+
+|-
+| rowspan=2 | [[List of United States senators from Washington|Washington]]
+| [[File:Patty Murray, official portrait, 113th Congress (cropped).jpg|95px]]
+! {{sortname|Patty|Murray}}
+| style="background-color:{{Democratic Party (US)/meta/color}}" |
+| [[Democratic Party (United States)|Democratic]]
+| {{birth date and age|1950|10|11}}
+| Teacher<br/>Lobbyist
+| [[Washington Senate]]<br/>[[Shoreline School District|Shoreline School]] Board
+| data-sort-value="1993/01/03" | January 3, 1993
+| [[2022 United States Senate election in Washington|2022]]
+| [[Seattle, Washington|Seattle]]
+| F
+
+|-
+| [[File:Maria Cantwell (cropped).jpg|95px]]
+! {{sortname|Maria|Cantwell}}
+| style="background-color:{{Democratic Party (US)/meta/color}}" |
+| [[Democratic Party (United States)|Democratic]]
+| {{birth date and age|1958|10|13}}
+| Marketing vice president
+| {{ushr|WA|1|U.S. House}}<br/>[[Washington House of Representatives]]
+| data-sort-value="2001/01/03" | January 3, 2001
+| [[2024 United States Senate election in Washington|2024]]
+| [[Edmonds, Washington|Edmonds]]
+| F
+
+|-
+| rowspan=2 | [[List of United States senators from West Virginia|West Virginia]]
+| [[File:Senator Manchin (cropped).jpg|95px]]
+! {{sortname|Joe|Manchin}}
+| style="background-color:{{Democratic Party (US)/meta/color}}" |
+| [[Democratic Party (United States)|Democratic]]
+| {{birth date and age|1947|8|24}}
+| Corporate executive
+| [[List of Governors of West Virginia|Governor of West Virginia]]<br/>[[Secretary of State of West Virginia]]<br/>[[West Virginia House of Delegates]]<br/>[[West Virginia Senate]]
+| data-sort-value="2010/11/15" | November 15, 2010
+| [[2024 United States Senate elections|2024]]
+| [[Charleston, West Virginia|Charleston]]
+| M
+
+|-
+| [[File:Shelley Moore Capito official Senate photo (cropped 2).jpg|95px]]
+! {{sortname|Shelley Moore|Capito}}
+| style="background-color:{{Republican Party (US)/meta/color}}" |
+| [[Republican Party (United States)|Republican]]
+| {{birth date and age|1953|11|26}}
+| College career counselor<br/>Director, state Board of Regents educational information center
+| {{ushr|WV|2|U.S. House}}<br/>[[West Virginia House of Delegates]]
+| data-sort-value="2015/01/03" | January 3, 2015
+| [[2020 United States Senate election in West Virginia|2020]]
+| [[Charleston, West Virginia|Charleston]]
+| F
+
+|-
+| rowspan=2 | [[List of United States senators from Wisconsin|Wisconsin]]
+| [[File:Ron Johnson, official portrait, 112th Congress (cropped).jpg|95px]]
+! {{sortname|Ron|Johnson|Ron Johnson (Wisconsin politician)}}
+| style="background-color:{{Republican Party (US)/meta/color}}" |
+| [[Republican Party (United States)|Republican]]
+| {{birth date and age|1955|4|8}}
+| Accountant<br/>Corporate executive
+| None
+| data-sort-value="2011/01/03" | January 3, 2011
+| [[2022 United States Senate election in Wisconsin|2022]]
+| [[Oshkosh, Wisconsin|Oshkosh]]
+| M
+
+|-
+| [[File:Tammy Baldwin, official portrait, 113th Congress (cropped).jpg|95px]]
+! {{sortname|Tammy|Baldwin}}
+| style="background-color:{{Democratic Party (US)/meta/color}}" |
+| [[Democratic Party (United States)|Democratic]]
+| {{birth date and age|1962|2|11}}
+| Lawyer
+| {{ushr|WI|2|U.S. House}}<br/>[[Wisconsin State Assembly|Wisconsin Assembly]]<br/>[[Dane County, Wisconsin]] Board of Supervisors
+| data-sort-value="2013/01/03" | January 3, 2013
+| [[2024 United States Senate election in Wisconsin|2024]]
+| [[Madison, Wisconsin|Madison]]
+| F
+
+|-
+| rowspan=2 | [[List of United States senators from Wyoming|Wyoming]]
+| [[File:MIke Enzi official portrait 115th Congress (cropped).jpg|95px]]
+! {{sortname|Mike|Enzi}}
+| style="background-color:{{Republican Party (US)/meta/color}}" |
+| [[Republican Party (United States)|Republican]]
+| {{birth date and age|1944|2|1}}
+| Nonprofit organization executive<br/>Accountant<br/>CEO<br/>Member, [[Air National Guard]]
+| [[Wyoming House of Representatives]]<br/>[[Wyoming Senate]]
+| data-sort-value="1997/01/03" | January 3, 1997
+| [[2020 United States Senate election in Wyoming|2020]]
+| [[Gillette, Wyoming|Gillette]]
+| M
+
+|-
+| [[File:John Barrasso official portrait 112th Congress (cropped).jpg|95px]]
+! {{sortname|John|Barrasso}}
+| style="background-color:{{Republican Party (US)/meta/color}}" |
+| [[Republican Party (United States)|Republican]]
+| {{birth date and age|1952|7|21}}
+| Orthopedic surgeon<br/>Medical chief of staff<br/>Nonprofit organization executive
+| [[Wyoming Senate]]
+| data-sort-value="2007/06/25" | June 25, 2007
+| [[2024 United States Senate election in Wyoming|2024]]
+| [[Casper, Wyoming|Casper]]
+| M
+
+|}
